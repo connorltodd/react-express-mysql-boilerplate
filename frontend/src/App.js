@@ -5,6 +5,8 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 // Router File Imports
 import Home from './components/Home';
 import About from './components/About';
+import Work from './components/Work';
+import Skills from './components/Skills';
 
 function App() {
 
